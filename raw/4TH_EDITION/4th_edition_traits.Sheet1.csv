@@ -1,0 +1,355 @@
+Trait_ID_4th,Category,Trait_name,Trait_description
+CARNEIRO4_001,Subsistence,Agriculture present,"Agriculture (horticulture) present (i.e., food plants cultivated)"
+CARNEIRO4_002,Subsistence,Agriculture is primary subsistence,Agriculture provides the major part of subsistence (about 75% or more)
+CARNEIRO4_003,Subsistence,Agricultural plots permanently cultivated,Agricultural plots under relatively permanent cultivation except for periods of fallow (if they occur)
+CARNEIRO4_004,Subsistence,Improved techniques of planting,"Improved techniques of planting (e.g., mounds, planting in rows, breaking of clods, plowing)"
+CARNEIRO4_005,Subsistence,Soil-working or harvesting tools,"Soil-working tools other than the digging stick (e.g., hoe, spade, rake, footplow) or harvesting tools other than simple beating stick (e.g., flail, rice header, winnowing tray)"
+CARNEIRO4_006,Subsistence,Animal-drawn plow,Animal-drawn plow
+CARNEIRO4_007,Subsistence,Fertilization of land,"Fertilization of land with material other than wood ashes (including, e.g., animal manure, night soil, green manure, compost, fresh soil or mud)"
+CARNEIRO4_008,Subsistence,Crop rotation,Crop rotation
+CARNEIRO4_009,Subsistence,Increasing cultivable land by engineering methods,"Area of cultivable land increased by engineering methods, including drainage, irrigation, and terracing"
+CARNEIRO4_010,Subsistence,Reclamation of agricultural land by drainage,Reclamation of agricultural land by drainage
+CARNEIRO4_011,Subsistence,Irrigation,Irrigation
+CARNEIRO4_012,Subsistence,Permanent dams or dykes,"Permanent dams or dykes to impound water for irrigation, drinking, etc."
+CARNEIRO4_013,Subsistence,Terracing,Terracing (including barriers to reduce soil slippage)
+CARNEIRO4_014,Subsistence,Continuous boundaries delimit agricultural fields,"Continuous boundaries (other than growing food plants) delimit agricultural fields (e.g., fences, rows or walls of stone, paths, ditches, hedges)"
+CARNEIRO4_015,Subsistence,Agricultural land reverted,"Agricultural land reverts to chief, king or state as personal property or for reassignment when owner abandons the land or dies without heirs (i.e., escheat)"
+CARNEIRO4_016,Subsistence,Agricultural land reapportioned,"Agricultural lands reapportioned from time to time by the chief, tribe, or state to insure equitable distribution and/or maximum cultivation, rather than for services rendered"
+CARNEIRO4_017,Subsistence,State enforcement of maximum cultivation,"Agricultural land forfeited by a cultivator for failure to till it properly (i.e., state enforcement of maximum cultivation)"
+CARNEIRO4_018,Subsistence,Agricultural cycle determined by specialists,Political or religious officials or other specialists determine the time of carrying out various steps in the agricultural cycle
+CARNEIRO4_019,Subsistence,State or church provides farmers with equipment,State or church provides farmers with seed or tools
+CARNEIRO4_020,Subsistence,Regular food surplus production,"Surplus of food regularly produced over and above the annual subsistence needs of the food producers, and not consumed by them"
+CARNEIRO4_021,Subsistence,State or tribal granaries,State or tribal granaries on which two or more communities (or the army) might draw
+CARNEIRO4_022,Subsistence,Fruit or nut orchards planted,Fruit or nut orchards planted
+CARNEIRO4_023,Subsistence,Domesticated animals other than dogs,Domesticated animals kept (other than the dog)
+CARNEIRO4_024,Subsistence,Domesticated animals kept to provide food,Domesticated animals kept to provide food
+CARNEIRO4_025,Subsistence,Domesticated animals used for packing,Domesticated animals used for packing
+CARNEIRO4_026,Subsistence,Domesticated animals used for traction,Domesticated animals used for traction
+CARNEIRO4_027,Subsistence,Domesticated animals used for riding,Domesticated animals used for riding
+CARNEIRO4_028,Settlements,Settlements occupied for more than 10 years,"Settlements occupied for more than 10 years, on the average"
+CARNEIRO4_029,Settlements,Settlements permanent,Settlements permanent
+CARNEIRO4_030,Settlements,Rectangular ground plan for settlements,Rectangular ground plan for settlements
+CARNEIRO4_031,Settlements,Communities of 100 or more,Permanent communities (settled or nomadic) of about 100 or more members
+CARNEIRO4_032,Settlements,Communities of 500 or more,Permanent communities (settled or nomadic) of about 500 or more members
+CARNEIRO4_033,Settlements,"Towns of 2,000 or more","Towns: permanent nucleated settlements of 2,000 or more residents"
+CARNEIRO4_034,Settlements,Two or more towns,Two or more towns
+CARNEIRO4_035,Settlements,"City of 10,000 or more","City: administrative and commercial population center of at least 10,000 residents, most of whom are engaged in non-subsistence activities"
+CARNEIRO4_036,Settlements,Two or more cities,Two or more cities
+CARNEIRO4_037,Settlements,"City of 100,000 or more","City of 100,000 or more residents"
+CARNEIRO4_038,Settlements,Cities divided into quarters or wards,Cities divided into quarters or wards
+CARNEIRO4_039,Settlements,Planned cities,Planned cities
+CARNEIRO4_040,Settlements,Paved streets,Paved streets
+CARNEIRO4_041,Settlements,Paved plaza,Paved plaza
+CARNEIRO4_042,Settlements,Well-maintained roads connecting settlements,Broad and well-maintained roads connecting settlements
+CARNEIRO4_043,Settlements,Paved roads connecting settlements,Paved roads connecting settlements
+CARNEIRO4_044,Settlements,Bridges,"Bridges (excluding log spans, vine ropes, and simple pole frameworks)"
+CARNEIRO4_045,Settlements,Way stations or inns,Permanently staffed way stations or inns along roads to house and provide for travelers
+CARNEIRO4_046,Settlements,Civic or ceremonial structures,Civic or ceremonial structures (including men's house) not ordinarily used as dwellings by family units (excluding structures built for specific occasions and later abandoned or destroyed)
+CARNEIRO4_047,Settlements,"Grandstands, amphitheaters, or stadiums","Grandstands, amphitheaters, or stadiums where spectators can witness contests or performances"
+CARNEIRO4_048,Settlements,Stone monuments commemorating persons or events,Stone monuments or stelae to mark or commemorate important persons or events
+CARNEIRO4_049,Settlements,Aqueducts or conduits,Aqueducts or conduits of stone or brick to supply drinking water
+CARNEIRO4_050,Settlements,Cisterns,Cisterns: artificially lined rain-catching or water-holding basins
+CARNEIRO4_051,Settlements,Baths of stone or brick,Baths of stone or brick
+CARNEIRO4_052,Settlements,Drains,"Drains: lined channels, covered or uncovered, or pipes, used to carry off rain water"
+CARNEIRO4_053,Settlements,Sewers,"Sewers: lined and covered channels or pipes, primarily for carrying away human waste"
+CARNEIRO4_054,Settlements,Permanent fortifications,"Permanent fortifications (including palisades around settlements, blockhouses, citadels, and fortified boundaries, but excluding fortified dwellings or compounds)"
+CARNEIRO4_055,Settlements,Stone or brick fortification walls,"Walls of stone, brick, adobe, or beaten earth (including earthworks) used in fortification"
+CARNEIRO4_056,Settlements,Moats,Moats (excluding dry ditches) surrounding fortifications
+CARNEIRO4_057,Architecture,Parts of houses extensively painted or carved,"House walls, ceiling, or roof extensively painted or carved"
+CARNEIRO4_058,Architecture,Multi-room dwellings,"Multi-roomed dwellings (three or more walled-off and separate rooms, with some degree of functional differentiation between them)"
+CARNEIRO4_059,Architecture,Multi-storied structures,Multi-storied structures (not meant to include high storage platforms)
+CARNEIRO4_060,Architecture,Cut stone masonry,Cut stone masonry
+CARNEIRO4_061,Architecture,Stone or brick bases for civic or ceremonial structures,"Stone or brick substructures (e.g., platforms, truncated pyramids) used as bases for civic or ceremonial structures"
+CARNEIRO4_062,Architecture,Dwellings of cut stones,Dwellings (including walls) constructed of cut stones
+CARNEIRO4_063,Architecture,Civic or ceremonial buildings of cut stone,Civic or ceremonial buildings constructed of cut stone
+CARNEIRO4_064,Architecture,Monumental architecture of stone or brick,"Monumental architecture of stone or brick (e.g., pyramids, palaces, temples, fortresses, amphitheaters)"
+CARNEIRO4_065,Architecture,Quarrying of stone for construction,Quarrying of stone for construction (rather than merely dressing loose stones)
+CARNEIRO4_066,Architecture,Stone coursing,Stone coursing (blocks laid in successive horizontal layers)
+CARNEIRO4_067,Architecture,Rubble used between walls in stone or brick construction,Rubble or some other fill used between walls in stone or brick construction
+CARNEIRO4_068,Architecture,Fired brick used in construction,Fired brick used in construction
+CARNEIRO4_069,Architecture,True mortar used in construction,True mortar used in construction
+CARNEIRO4_070,Architecture,Facing of stone or brick walls,"Facing of stone or brick walls with plaster, alabaster, etc."
+CARNEIRO4_071,Architecture,"Roof of tile, brick, stone slabs, planks, etc.","Roofs of tile, brick, stone slabs, planks, etc. (i.e., not bark, mud, thatching, or similar material)"
+CARNEIRO4_072,Architecture,Stone lintels,Stone lintels
+CARNEIRO4_073,Architecture,Corbeled arch,Corbeled arch
+CARNEIRO4_074,Architecture,True arch,True arch
+CARNEIRO4_075,Architecture,Stone or brick pillars or columns used structurally,Stone or brick pillars or columns used structurally
+CARNEIRO4_076,Architecture,Stone stairways,"Stone stairways (of cut blocks, or carved into living rock)"
+CARNEIRO4_077,Architecture,Architectural stone carving,Architectural stone carving (beyond the cutting of stone into blocks)
+CARNEIRO4_078,Architecture,Architectural features cut into living rock,"Architectural features (e.g., tombs, stairways) cut into living rock"
+CARNEIRO4_079,Architecture,Fortresses built of stone or brick,"Fortresses built of stone or brick (including walled cities and citadels, where people take refuge in time of war)"
+CARNEIRO4_080,Architecture,Elaborations in fortified walls,"Elaborations in fortified walls (e.g., towers, salients, merlons)"
+CARNEIRO4_081,Architecture,Professional architects or engineers,Professional (full-time) architects or engineers
+CARNEIRO4_082,Architecture,Professional stone masons,Professional (full-time) stone masons
+CARNEIRO4_083,Architecture,Professional carpenters or woodworkers,Professional (full-time) carpenters or woodworkers
+CARNEIRO4_084,Economics,Landed property,"Landed property: continuous ownership rights exercised by individuals or families over land which has been improved, even after cultivated plot, house site, etc., is abandoned"
+CARNEIRO4_085,Economics,Inscription of land or other forms of property,Inscription of land or other forms of property (registry of deeds)
+CARNEIRO4_086,Economics,Most individual property inherited,Most individual (not family) property transmitted by inheritance rather than being destroyed at death of owner
+CARNEIRO4_087,Economics,Testamentary disposition of property,"Testamentary disposition of property, by a written will, through a formal executor, or orally in the presence of a witness"
+CARNEIRO4_088,Economics,Wealth differences among society members,"Marked differences in wealth (e.g., real property, livestock, precious metals, slaves) among members of the society (other than the difference between the principal political leader and everyone else)"
+CARNEIRO4_089,Economics,Luxury items,Luxury items (other than symbols of political or religious office) which only a small percentage of the population (less than 20 percent) can afford
+CARNEIRO4_090,Economics,Craft specialization,Craft specialization: some crafts which only a limited number of men in the society practice (excluding the making of religious or ceremonial objects by shamans or priests)
+CARNEIRO4_091,Economics,Craft production for economic exchange,A significant amount of craft production primarily for economic exchange rather than for personal consumption
+CARNEIRO4_092,Economics,Full-time craft specialists,"Full-time craft-specialists (e.g., brewer, lapidary, tailor, baker, tanner)"
+CARNEIRO4_093,Economics,Full-time service specialists,"Full-time skilled service specialists (e.g., tattooer, barber, accountant, lawyer, physician)"
+CARNEIRO4_094,Economics,Guilds of specialized artisans,"Guilds of specialized artisans (i.e., cooperative associations)"
+CARNEIRO4_095,Economics,State controls certain aspects of production,"State controls certain aspects of production (e.g., licenses salt production, promotes raising of livestock, monopolizes weapons production, restricts private mining)"
+CARNEIRO4_096,Economics,Institutional employment of artisans and laborers,"Artisans and laborers attached to or employed on a regular basis (rather than under the corvée) by political or religious institutions (tribe or state, temple or church)"
+CARNEIRO4_097,Economics,Corvée,Corvée (draft labor exacted by a supra-community authority or agency)
+CARNEIRO4_098,Economics,Wage labor,Wage labor (unskilled laborers paid in money or in kind at prearranged rates and intervals)
+CARNEIRO4_099,Economics,Standardized medium of exchange,"Standardized medium of exchange, in terms of which the value of most commodities is reckoned"
+CARNEIRO4_100,Economics,Coined money,Coined money
+CARNEIRO4_101,Economics,Money or goods lent out at interest,Money or goods lent out at interest
+CARNEIRO4_102,Economics,Rental of land or dwellings,Rental of land or dwellings by landlords to tenants as a common system of tenure
+CARNEIRO4_103,Economics,Itinerant merchants or traders,"Itinerant merchants or traders who are members of the society itself (rather than foreigners), and who remain such even if they trade outside the society"
+CARNEIRO4_104,Economics,Sedentary merchants,Sedentary merchants who operate fixed commercial establishments
+CARNEIRO4_105,Economics,Markets,"Markets, in which a variety of goods are traded"
+CARNEIRO4_106,Economics,Daily and permanent markets,Daily and permanent markets
+CARNEIRO4_107,Economics,State regulation of commerce,"State regulation of commerce (e.g., taxes on economic transactions, fixing of price levels, enforcing payment of debts, supervising markets)"
+CARNEIRO4_108,Economics,Legally enforceable economic contracts,Economic transactions detailed in legally enforceable contracts
+CARNEIRO4_109,Economics,Long-term commercial records kept,Long-term commercial records kept
+CARNEIRO4_110,Economics,Recorded inventories of wealth,"Recorded inventories of wealth (e.g., with pebbles, knotted cords, notched sticks, clay tablets)"
+CARNEIRO4_111,Economics,Royal storehouse or treasury,"Royal storehouse or treasury (for hard goods, rather than for food) with accountant or treasurer who keeps track of the king's wealth"
+CARNEIRO4_112,Economics,Trade between communities,Trade between communities
+CARNEIRO4_113,Economics,Trade with other societies,"Frequent or regular trade with other societies, involving journeys of at least 3 days one-way"
+CARNEIRO4_114,Economics,State-directed trade,"State-directed trade (i.e., trade carried on by agents of the state with other societies)"
+CARNEIRO4_115,Economics,Trading outposts,Trading outposts maintained outside the territory of the society
+CARNEIRO4_116,Economics,Taxation in kind,"Taxation in kind (including produce from land farmed for the state, but excluding required contributions to community projects or ceremonies)"
+CARNEIRO4_117,Economics,Taxation in money,Taxation in money
+CARNEIRO4_118,Economics,Official tax or tribute collectors,Official tax or tribute collectors sent out periodically by the central government
+CARNEIRO4_119,Economics,Tolls,Tolls collected on roads or bridges
+CARNEIRO4_120,Economics,Serfs,"Serfs: propertyless class of agricultural laborers, bound to the land and producing for their masters"
+CARNEIRO4_121,Economics,Extrasocietal slavery,"War captives or persons bought outside the society kept as slaves and usually not adopted, liberated, or killed subsequently (i.e. extrasocietal slavery)"
+CARNEIRO4_122,Economics,Intrasocietal slavery,"Debtors or criminals made slaves, or other freeborn members of the society (including wives and children) sold into slavery (i.e., intrasocietal slavery)"
+CARNEIRO4_123,Economics,Slaves bought and sold within the society,Slaves bought and sold within the society (excluding the selling into slavery of freeborn members of the society)
+CARNEIRO4_124,Social Organization and Stratification,Social segments above family,"Social segments above the level of the extended family or household (e.g., lineages, sibs, moieties, marriage classes, castes, age grades, men's clubs, secret societies, warrior societies, ceremonial teams, craft guilds)"
+CARNEIRO4_125,Social Organization and Stratification,Unilineal kin groups beyond families,Unilineal kin groups beyond extended families (including royal lineages)
+CARNEIRO4_126,Social Organization and Stratification,Significant social status differences,Well-defined and significant differences in social status (other than the difference between the principal political leader and everyone else)
+CARNEIRO4_127,Social Organization and Stratification,Social stratification into at least three classes,"Stratification of society into at least three distinct social classes (e.g., kings, nobles, commoners, slaves)"
+CARNEIRO4_128,Social Organization and Stratification,Two or more ranked groups of upper classes,Upper classes differentiated into two or more ranked groups
+CARNEIRO4_129,Social Organization and Stratification,Ornaments or clothing distinguishing social classes,Special ornaments or differences in clothing which distinguish members of the upper classes from the rest of the society
+CARNEIRO4_130,Social Organization and Stratification,Sumptuary laws,"Sumptuary laws concerning dress, adornment, or other manifestations of wealth and serving to maintain class distinctions"
+CARNEIRO4_131,Social Organization and Stratification,Upper class members have superior residences,Members of upper classes (other than ruler) have distinctly superior residences
+CARNEIRO4_132,Social Organization and Stratification,Upper class members have more land,Members of upper classes (other than ruler) have significantly more land or property than commoners
+CARNEIRO4_133,Social Organization and Stratification,Upper class members are extempt from taxation,Members of upper classes (outside of the royal family) are extempt from taxation
+CARNEIRO4_134,Social Organization and Stratification,Upper class members have servants or retainers,Members of upper classes (other than ruler) have permanent servants or retainers
+CARNEIRO4_135,Social Organization and Stratification,Upper class members have numerous wives or concubines,Members of upper classes usually have numerous wives or concubines (at least 4 or 5)
+CARNEIRO4_136,Social Organization and Stratification,Competitive sports or spectacles held for the upper classes,Competitive sports or spectacles held primarily for the entertainment of the upper classes
+CARNEIRO4_137,Social Organization and Stratification,Dramatic performances for upper class entertainment,Dramatic performances held primarily for the entertainment of the upper classes
+CARNEIRO4_138,Social Organization and Stratification,Professional dancers or musicians for upper classes,"Professional dancers or musicians who provide entertainment during feasts, banquets, or celebrations of the upper classes"
+CARNEIRO4_139,Social Organization and Stratification,Class differences in disposal of the dead,Status or class differences in disposal of the dead (based on social rather than religious status; exclude shamans and priests)
+CARNEIRO4_140,Social Organization and Stratification,Upper class members buried with luxury goods,Members of upper classes (other than ruler) buried with luxury goods
+CARNEIRO4_141,Social Organization and Stratification,"Upper class members buried with wives, retainers or slaves","Members of upper classes (other than ruler) buried with wives, concubines, retainers, or slaves"
+CARNEIRO4_142,Social Organization and Stratification,Upper class members elaborately buried,"Members of upper classes (other than ruler) buried in elaborate tombs or graves (e.g., burial mounds, cist graves, thatched buildings)"
+CARNEIRO4_143,Political Organization,Supra-community political units,Communities (or camps) continuously grouped (year-round) into larger political units
+CARNEIRO4_144,Political Organization,Supra-provincial political organization,"Districts or provinces, each comprising several villages or communities, are permanently grouped into a larger political unit"
+CARNEIRO4_145,Political Organization,State,"State: permanent organization of a number of supra-community units (districts, tribes, or provinces) into a single political unit under centralized control, involving at least (a) some power to collect revenue, (b) some centralized judicial authority, and (c) the power to formulate and execute policy"
+CARNEIRO4_146,Political Organization,Empire,Empire: a unit of two or more formerly independent states covering a considerable area
+CARNEIRO4_147,Political Organization,"Headman, chief, king, or council","Decisions or policy made by a formally recognized agent or agency of the society (e.g., headman, chief, king, or council in which membership is not based merely on age or sex)"
+CARNEIRO4_148,Political Organization,Political leader has considerable authority,"Political leader(s) has considerable authority, by virtue of his office rather than his personality"
+CARNEIRO4_149,Political Organization,Regular advisors to political leader,"Regular advisor(s) or assistant(s) to the principal political leader (e.g., sub-chief, talking chief, minister, council)"
+CARNEIRO4_150,Political Organization,Political leader is a full-time specialist,"Political leader is a full-time specialist (i.e., does not regularly engage in subsistence)"
+CARNEIRO4_151,Political Organization,Monarchy,"Monarchy: a government in which the king is the ultimate source of authority and exercises such powers as the following: the power to conscript an army or a labor force, strong executive power, the power to declare war, the power of life and death, etc."
+CARNEIRO4_152,Political Organization,Capital city or town,State or tribe has capital city or town
+CARNEIRO4_153,Political Organization,Provincial administrative centers,Provincial or district administrative centers where officials appointed by the state (other than local chiefs) collect taxes or maintain order
+CARNEIRO4_154,Political Organization,Governors,"Governors or chiefs, appointed or confirmed in office, in charge of administering districts or provinces"
+CARNEIRO4_155,Political Organization,Three or more levels of territorial administration,"Three or more levels of territorial administration above the community (e.g., 1. district, 2. province, 3. quarter, 4. kingdom)"
+CARNEIRO4_156,Political Organization,Municipal officials,"Officials in charge of municipal administration (e.g., mayors, bailiffs)"
+CARNEIRO4_157,Political Organization,Hierarchy of non-territorial administrative officials,Hierarchy of non-territorial administrative officials (exclude palace hierarchy)
+CARNEIRO4_158,Political Organization,State ministers,"State ministers in charge of various activities controlled or supervised by the state (e.g., minister of agriculture, minister of public works, minister of war, minister of foreign affairs)"
+CARNEIRO4_159,Political Organization,Council of ministers advising the ruler,Council of ministers forming a regular advisory body to the ruler
+CARNEIRO4_160,Political Organization,Prime minister,Prime minister: principal administrative officer below the ruler and appointed by him
+CARNEIRO4_161,Political Organization,Three or more levels of administrative officials,Hierarchy of at least three levels of administrative officials (including the paramount chief or king)
+CARNEIRO4_162,Political Organization,"Inspectors, censors, or secret agents","Inspectors, censors, or secret agents who investigate the functioning of officials, popular discontent, etc."
+CARNEIRO4_163,Political Organization,Professional civil service,"Professional civil service: administrative positions filled on the basis of merit and training, rather than on the basis of kinship ties, wealth, social status, or personal allegiance to the ruler"
+CARNEIRO4_164,Political Organization,State-sponsored colonists,State-sponsored colonists
+CARNEIRO4_165,Political Organization,Procedure for political succession,"Succession to political leadership by a clear and regularly followed procedure (e.g., primogeniture, formal election)"
+CARNEIRO4_166,Political Organization,Political leader appoints officials,Political leader appoints and deposes political officials
+CARNEIRO4_167,Political Organization,"Political leader bestows land, slaves, rank","Political leader bestows land, slaves, or noble rank for services rendered"
+CARNEIRO4_168,Political Organization,Ruler grants audiences,Ruler grants audiences to hear grievances or petitions
+CARNEIRO4_169,Political Organization,Political leader controls religious institutions,"Political leader exercises considerable control over religious institutions (e.g., performs investiture of priests, endows temples)"
+CARNEIRO4_170,Political Organization,Full-time retainers for political leader,Political leader has full-time personal attendants and retainers
+CARNEIRO4_171,Political Organization,Ruler has many wives or concubines,Chief or king has many wives or concubines (at least 8 or 10)
+CARNEIRO4_172,Political Organization,Ruler has a harem,"Chief or king has a harem (a special residence(s) supervised by a responsible official(s), e.g., a eunuch)"
+CARNEIRO4_173,Political Organization,Ruler has a bodyguard,Body guard to protect the ruler's person
+CARNEIRO4_174,Political Organization,Court,"Court, characterized by a household staff and steward, resident members of the upper classes, state or tribal officials, entertainers, etc."
+CARNEIRO4_175,Political Organization,Special residence for political leader,Political leader lives in a special residence or compound significantly larger and more elaborate than any other residence
+CARNEIRO4_176,Political Organization,Royal estates,"Royal estates, residences, or preserves outside the capital which are the property of the king"
+CARNEIRO4_177,Political Organization,Installation ceremony for political leader,"Special ceremony for installation or investiture of new political leader (e.g., oath of office, coronation)"
+CARNEIRO4_178,Political Organization,Ruler has special symbols of office,"Chief or king has special symbols of office or authority (e.g., throne, crown, scepter, seal)"
+CARNEIRO4_179,Political Organization,Authentication devices for official actions,"Devices used to confirm and authenticate state orders, decrees, actions, and transactions (e.g., seals, signatures, rings, or other graphic evidence)"
+CARNEIRO4_180,Political Organization,Deference to political leader,"Displays of special deference to political leader (e.g., carrying in a litter, averting the eyes, bowing)"
+CARNEIRO4_181,Political Organization,Officials or sub-chiefs swear allegiance to the leader,"Officials, sub-chiefs, or courtiers swear allegiance to the king or state"
+CARNEIRO4_182,Political Organization,Political leader performs essential societal rituals,"Political leader performs rituals considered essential for the welfare of the society, and which only he can perform"
+CARNEIRO4_183,Political Organization,(Semi)divine ruler,Ruler considered divine or semi-divine
+CARNEIRO4_184,Political Organization,Ruler buried with luxury goods,Paramount chief or king buried with luxury goods
+CARNEIRO4_185,Political Organization,Ruler elaborately buried,"Ruler buried in an elaborate tomb or grave (e.g., burial mound, cist grave, thatched building, pyramid)"
+CARNEIRO4_186,Political Organization,Ruler buried with wives or slaves,"Wives, concubines, retainers, or slaves of chief or king buried with him at the time of his death"
+CARNEIRO4_187,Political Organization,Special preservation of the ruler's corpse,"Special preservation (e.g., desiccation, embalming) of the ruler's corpse or part thereof"
+CARNEIRO4_188,Political Organization,Deceased political leader reverenced,"Deceased former political leader especially reverenced (e.g., his spirit invoked or propitiated, monuments erected to his memory)"
+CARNEIRO4_189,Political Organization,Superordinate tribe or state,"Superordinate tribe or state which receives tribute, labor, soldiers, or other recognition of obligation from subordinate or vassal tribe(s) or state(s)"
+CARNEIRO4_190,Political Organization,Formal treaties,"Formal treaties (recorded or witnessed and sworn) concluded to establish alliances, to settle disputes, or to end wars"
+CARNEIRO4_191,Political Organization,Ambassadors,Ambassador(s): diplomatic representatives acting in regular relations with a foreign government
+CARNEIRO4_192,Political Organization,Young persons sent to capital for training or royal service,Young persons sent to capital from each district for training or royal service
+CARNEIRO4_193,Political Organization,State schools for upper class members,State schools for secular training of members of the upper classes
+CARNEIRO4_194,Law and Judicial Process,Crimes punished by a permanent agent,Crimes regularly punished by a permanent agent of the society rather than by the offended parties themselves
+CARNEIRO4_195,Law and Judicial Process,Peace-making machinery,"Peace-making machinery or institution for settling disputes and avoiding fighting within the community (either a permanent mediator, e.g., chief or council, whose neutrality and wisdom are generally accepted, or an arbitrator, e.g., the state, backed by sanctions of force)"
+CARNEIRO4_196,Law and Judicial Process,Inter-community disputes settled by peaceful means,"Inter-community disputes within the tribe or state customarily settled by peaceful means (e.g., arbitration, official decrees) rather than by fighting"
+CARNEIRO4_197,Law and Judicial Process,Judicial process,"Judicial process, in which an individual or limited group (e.g., council of elders, tribal chief, court of law) considers evidence and renders judgment in a dispute, or of an accused person, on behalf of the society"
+CARNEIRO4_198,Law and Judicial Process,Court trials,"Court trials, held under judges or magistrates who hear testimony and weigh evidence, interpret the law, and render a decision in civil or criminal cases"
+CARNEIRO4_199,Law and Judicial Process,Judicial system of higher and lower courts,"Judicial system of higher and lower courts, cases being referred to one or the other according to their nature, with decisions of lower courts perhaps appealable to higher courts"
+CARNEIRO4_200,Law and Judicial Process,Political leader exercises judicial power,"Political leader exercises judicial power (decides guilt and decrees punishment, or settles cases appealed to him)"
+CARNEIRO4_201,Law and Judicial Process,Ruler sometimes pardons convicted offenders,Ruler sometimes pardons convicted offenders
+CARNEIRO4_202,Law and Judicial Process,Ruler functions as lawgiver,Ruler functions as lawgiver or lawmaker
+CARNEIRO4_203,Law and Judicial Process,Code of laws,"Code of laws (explicit and recorded) which covers broad areas of social, political, and economic relations"
+CARNEIRO4_204,Law and Judicial Process,Class distinctions in legal liability for offenses,"Class distinctions in legal liability for offenses (i.e., members of the various social classes have different rights under the law)"
+CARNEIRO4_205,Law and Judicial Process,Graded series of punishments,"Graded series of punishments or fines specified by a central agency of the society (e.g., tribal council, ruler, legislature) and consistently applied to fit a graded series of offenses"
+CARNEIRO4_206,Law and Judicial Process,Offenses punished by fines,"Certain offenses punished by fines (in money or in kind) paid to tribe or state, of which part may go to the offended party"
+CARNEIRO4_207,Law and Judicial Process,Offenses punished by confiscation of property,"Certain offenses punished by confiscation of property, of which part may go to the offended party"
+CARNEIRO4_208,Law and Judicial Process,Corporal punishment,Corporal punishment (including mutilation) meted out for certain offenses by an authorized agent of the society
+CARNEIRO4_209,Law and Judicial Process,Offenses punished by slavery or hard labor,Certain offenses punished by slavery or by terms at hard labor
+CARNEIRO4_210,Law and Judicial Process,Death penalty,Death penalty decreed for certain crimes and exacted openly by a constituted agent of the society
+CARNEIRO4_211,Law and Judicial Process,Violation of secular law incurs divine and secular punishment,Violation of secular legal norms automatically incurs punishment by gods as well as secular punishment
+CARNEIRO4_212,Law and Judicial Process,Police force,Police force: permanent agency of the state charged with apprehension and detention of criminals
+CARNEIRO4_213,Law and Judicial Process,Incarceration of convicted offenders,"Incarceration of convicted offenders (in stocks, pens, cages, or prisons)"
+CARNEIRO4_214,Warfare,Economic reasons for warfare,"Warfare motivated primarily by economic considerations (e.g., territorial acquisition, the capture of booty, the taking of slaves) rather than by feuds, the avenging of murder or witchcraft, or the taking of women"
+CARNEIRO4_215,Warfare,War leaders,"Recognized war leader(s) (distinct from the political leader) who regularly lead(s) the men of the society against the enemy (e.g., war chief, general)"
+CARNEIRO4_216,Warfare,Professional military commanders,"Professional military commanders (e.g., generals) who regularly lead the army in time of war"
+CARNEIRO4_217,Warfare,Professional middle-level military officials,"Professional middle-level military officials (e.g., centurions, lieutenants, captains)"
+CARNEIRO4_218,Warfare,Specially trained warriors,Body of specially trained or highly skilled warriors
+CARNEIRO4_219,Warfare,Military conscription,Military conscription
+CARNEIRO4_220,Warfare,Soldiers take oath of allegiance,Soldiers take oath of allegiance
+CARNEIRO4_221,Warfare,Standing army,"Standing army, organized around a core of professional soldiers"
+CARNEIRO4_222,Warfare,Mercenaries,"Mercenaries (i.e., paid foreign troops) used in warfare"
+CARNEIRO4_223,Warfare,Espionage,"Espionage, by special agents who pass for natives in enemy territory"
+CARNEIRO4_224,Warfare,Defensive body armor,Defensive body armor (excluding shields)
+CARNEIRO4_225,Warfare,Pitched battles,Pitched battles: encounters frequently fought hand-to-hand rather than hit-and-run
+CARNEIRO4_226,Warfare,Military formations and tactics,"Military formations and tactics used in warfare (including the holding of men in reserve, but excluding ambushes and hit-and-run raids)"
+CARNEIRO4_227,Warfare,Military emblems and banners,"Emblems, banners, or special objects which serve to identify military units and act as rallying points are carried into battle"
+CARNEIRO4_228,Warfare,Differentiated military units,"Differentiated military units (e.g., spearmen, bowmen, slingers, cavalry)"
+CARNEIRO4_229,Warfare,Chariots used in warfare,Chariots used in warfare
+CARNEIRO4_230,Warfare,Permanently garrisoned forts,"Permanently garrisoned forts (excluding observation posts, walled towns and cities)"
+CARNEIRO4_231,Warfare,Sieges laid to enemy fortifications,Sieges laid to enemy fortifications strong enough to resist immediate assault
+CARNEIRO4_232,Warfare,Catapult-type devices used as siege engines,Catapult-type devices used as siege engines
+CARNEIRO4_233,Warfare,Special ornaments for brave or wounded warriors,"Special ornaments, insignia, or appellations awarded for prowess or wounds received in battle"
+CARNEIRO4_234,Warfare,Rewards for outstanding warriors,"Outstanding warriors rewarded with gifts of property, women, or slaves"
+CARNEIRO4_235,Warfare,Nobility attainable through war exploits,Nobility or distinctly high social status attainable through war exploits
+CARNEIRO4_236,Warfare,Body trophies,"Body trophies (e.g., heads, scalps, hands) taken in war or from sacrificed prisoners"
+CARNEIRO4_237,Warfare,Adult male war captives,Adult male war captives frequently taken
+CARNEIRO4_238,Warfare,War captives regularly sacrificed to gods,War captives regularly sacrificed to god(s)
+CARNEIRO4_239,Warfare,Ransoming of war captives,Ransoming of war captives
+CARNEIRO4_240,Warfare,Territory of vanquished enemy annexed,Territory of vanquished enemy annexed
+CARNEIRO4_241,Warfare,Vanquished enemies subjugated and controlled,Peoples of vanquished enemy subjugated and held under effective control
+CARNEIRO4_242,Warfare,Defeated political leaders pledge loyalty to conquerors,Defeated political leader(s) or his heir retained in authority over his territory on pledge of loyalty to conquerors
+CARNEIRO4_243,Warfare,Periodic revolts of subject peoples,Periodic revolts of subject peoples
+CARNEIRO4_244,Warfare,Gods of war,God(s) of war (not necessarily connected exclusively with war)
+CARNEIRO4_245,Religion,Gods,"God(s): supernatural beings (not impersonal forces) who are not particular to locations or to kinship segments (exclude, e.g., ancestral, guardian, and other personal spirits), to whom prayers are directed and who actively intervene in human affairs"
+CARNEIRO4_246,Religion,Patron gods,"Patron gods (not including guardian spirits), who afford protection to individuals engaged in particular occupations or activities (e.g., god of merchants, god of hunters, god of travelers, god of blacksmiths)"
+CARNEIRO4_247,Religion,Oracles,"Oracle(s): a shrine or object where, or by means of which, a priest or priestess transmits answers to questions posed to a god or spirit"
+CARNEIRO4_248,Religion,Lawgiver god,"Lawgiver god, who on more than one occasion has enunciated extensive rules for governing human conduct"
+CARNEIRO4_249,Religion,Sun god,"Sun god worshipped (i.e., propitiated and invoked)"
+CARNEIRO4_250,Religion,Pantheon of gods,"Pantheon of gods worshipped (propitiated and invoked): applies only to differentiated gods who actively control spheres of life or nature, e.g., rain god, war god, fire god, fertility goddess, love goddess"
+CARNEIRO4_251,Religion,Paramount god in the pantheon,One god in the pantheon of differentiated gods worshipped as paramount
+CARNEIRO4_252,Religion,Idols,Idols worshipped as representations of supernatural beings
+CARNEIRO4_253,Religion,Offerings,"Offerings, libations, or sacrifices to supernatural beings (gods, ancestors, local spirits)"
+CARNEIRO4_254,Religion,Human sacrifice,Human sacrifice directed to supernatural beings to placate them or gain their favor
+CARNEIRO4_255,Religion,Altars,"Altars, where offerings (including sacrifices) or prayers to gods are regularly made or rituals performed"
+CARNEIRO4_256,Religion,Special religious practitioners,"Special religious practitioners (e.g., shamans, priests)"
+CARNEIRO4_257,Religion,Religious specialists supported by individuals or society,"Religious specialist(s) supported (fully or almost fully) by individuals, the community, tribe, or state"
+CARNEIRO4_258,Religion,Priests,"Priests: religious practitioners connected with specific gods or with society-wide ancestral cults; i.e., not shamans"
+CARNEIRO4_259,Religion,Priests formally invested in their office,"Priests formally invested in their office by chief, king, or higher priests"
+CARNEIRO4_260,Religion,Functionally specialized priests,"Functionally specialized priests (e.g., interpreters of oracles or dreams, sacrificial priests, funerary priests)"
+CARNEIRO4_261,Religion,Hierarchy of priests,Hierarchy of priests
+CARNEIRO4_262,Religion,Temples,"Temples, where gods are worshipped or society-wide ancestral cults are practiced by priests"
+CARNEIRO4_263,Religion,Temple has large staff,Temple has large staff (more than 10 )
+CARNEIRO4_264,Religion,Temple owns considerable property,Temple owns considerable property
+CARNEIRO4_265,Religion,Women consecrated to a temple or a god service,"Women consecrated to a temple or to the service of a god (e.g., priestesses, virgins, nuns)"
+CARNEIRO4_266,Religion,Church,Church: religious institution which encompasses a number of priests and temples (or monks and monasteries) and which is unified by a set of common beliefs and observances
+CARNEIRO4_267,Religion,Head priest has considerable political influence,Head priest (including priest-chief or priest-king) has considerable political influence
+CARNEIRO4_268,Religion,Church owns large amounts of land,Church owns large amounts of land
+CARNEIRO4_269,Religion,Temple or church receives donations,Temple or church receives donations
+CARNEIRO4_270,Religion,Temple or church exacts tithes,Temple or church exacts tithes or receives the produce of a proportion of all cultivated lands
+CARNEIRO4_271,Religion,Training school for priests,Training school for priests
+CARNEIRO4_272,Religion,Priests follow strict rules of discipline,"Priests follow strict rules of discipline, including various forms of abegnation (e.g., fasting, continence) or mortification of the flesh"
+CARNEIRO4_273,Religion,"Monasteries, convents, or nunneries","Monasteries, convents, or nunneries where priests, priestesses, etc., live, and which, unlike temples, are ordinarily closed to laymen"
+CARNEIRO4_274,Religion,Ceremonial or religious center,Ceremonial or religious center: a complex of temples and associated buildings having an important role in the religious life of the society
+CARNEIRO4_275,Religion,Religious pilgrimages,Religious pilgrimages to shrines or sacred places
+CARNEIRO4_276,Religion,Ritual or liturgical texts,Ritual or liturgical (written) texts
+CARNEIRO4_277,Ceramics and Art,Pottery (either made or commonly used),Pottery (either made or used commonly)
+CARNEIRO4_278,Ceramics and Art,Painted pottery made,Painted pottery made
+CARNEIRO4_279,Ceramics and Art,Effigy vessels made,Effigy vessels made
+CARNEIRO4_280,Ceramics and Art,Mold-made pottery,Mold-made pottery
+CARNEIRO4_281,Ceramics and Art,Wheel-made pottery,Wheel-made pottery
+CARNEIRO4_282,Ceramics and Art,Pottery kilns,Pottery kilns
+CARNEIRO4_283,Ceramics and Art,Men make the pottery,Men make the pottery
+CARNEIRO4_284,Ceramics and Art,Professional potters,Professional (full-time) potters
+CARNEIRO4_285,Ceramics and Art,Professional painters or sculptors,Professional (full-time) painters or sculptors
+CARNEIRO4_286,Ceramics and Art,Terracotta figurines,Terracotta (baked clay) figurines or statues as art or ceremonial objects
+CARNEIRO4_287,Ceramics and Art,Stone statues,Stone statues (or figurines) as art or ceremonial objects
+CARNEIRO4_288,Ceramics and Art,Heroic or gigantic stone statues,Heroic or gigantic stone statues
+CARNEIRO4_289,Ceramics and Art,"Stone reliefs, intaglios, or friezes","Reliefs, intaglios, or friezes carved into dressed stone surfaces"
+CARNEIRO4_290,Ceramics and Art,Wall murals or frescoes,Murals or frescoes painted on faced stone or brick walls
+CARNEIRO4_291,Ceramics and Art,Glass manufactured,Glass manufactured
+CARNEIRO4_292,Ceramics and Art,"Mosaics of stone, brick, tile, or glass","Mosaics of stone, brick, tile, or glass"
+CARNEIRO4_293,"Tools, Utensils, and Textiles",Ground or polished stone cutting tools,Ground or polished stone cutting tools
+CARNEIRO4_294,"Tools, Utensils, and Textiles",Metal axes or adzes made,Metal axes or adzes made
+CARNEIRO4_295,"Tools, Utensils, and Textiles",Animal-powered devices for grinding grain,Animal-powered devices for grinding grain
+CARNEIRO4_296,"Tools, Utensils, and Textiles",Mechanical devices for raising water,"Mechanical devices for raising water (e.g., shadoof, water wheel)"
+CARNEIRO4_297,"Tools, Utensils, and Textiles",Wheeled vehicles,Wheeled vehicles
+CARNEIRO4_298,"Tools, Utensils, and Textiles",Scales or balances,Scales or balances
+CARNEIRO4_299,"Tools, Utensils, and Textiles",Spindle,Spindle
+CARNEIRO4_300,"Tools, Utensils, and Textiles",Heddle loom,Heddle loom
+CARNEIRO4_301,"Tools, Utensils, and Textiles",Animal fibers woven into cloth,"Hair, wool, fur, or silk woven into cloth"
+CARNEIRO4_302,"Tools, Utensils, and Textiles",Patterns woven into cloth,Patterns woven into cloth
+CARNEIRO4_303,"Tools, Utensils, and Textiles",Garments made of woven cloth,Garments made of woven cloth
+CARNEIRO4_304,"Tools, Utensils, and Textiles",Dyeing,"Dyeing of finished, loom-woven textiles"
+CARNEIRO4_305,"Tools, Utensils, and Textiles",Professional weavers,"Professional weavers, who weave cloth primarily for exchange"
+CARNEIRO4_306,Metalworking,Forging,Forging (hammering metal into shape while hot)
+CARNEIRO4_307,Metalworking,Mining of ores,Mining of ores
+CARNEIRO4_308,Metalworking,Smelting of ores,Smelting of ores
+CARNEIRO4_309,Metalworking,Bellows used in working metal,Bellows used in working metal
+CARNEIRO4_310,Metalworking,Copper mined and worked,Copper mined and worked
+CARNEIRO4_311,Metalworking,Gold and/or silver mined and worked,Gold and/or silver mined and worked
+CARNEIRO4_312,Metalworking,Iron mined and worked,Iron mined and worked
+CARNEIRO4_313,Metalworking,Alloying of metals,Alloying of metals
+CARNEIRO4_314,Metalworking,Bronze or brass produced,Bronze or brass produced
+CARNEIRO4_315,Metalworking,Casting in molds,Casting in molds
+CARNEIRO4_316,Metalworking,Lost-wax casting,Lost-wax casting (cire perdue)
+CARNEIRO4_317,Metalworking,Metal hardening through annealing or tempering,Altering the hardness of metals by annealing (heating and slow cooling) or tempering (heating and rapid cooling by immersion in a liquid)
+CARNEIRO4_318,Metalworking,"Soldering, welding, or riveting used to join metals","Soldering, welding, or riveting used to join metals"
+CARNEIRO4_319,Metalworking,Decorative metal-working techniques,"Decorative metal-working techniques (e.g., gilding, embossing, engraving, inlaying)"
+CARNEIRO4_320,Metalworking,Copper tools in common use,Copper weapons or utensils in common use
+CARNEIRO4_321,Metalworking,Bronze tools in common use,Bronze or brass weapons or utensils in common use
+CARNEIRO4_322,Metalworking,Iron tools in common use,Iron weapons or utensils in common use
+CARNEIRO4_323,Metalworking,Metal tools predominant,Metal weapons and utensils predominant
+CARNEIRO4_324,Metalworking,Ornaments and jewelry of precious metals,"Ornaments and jewelry of gold, silver, or other precious metals"
+CARNEIRO4_325,Metalworking,Non-utllitarian metal objects,"Non-utilitarian objects made of metal (e.g., figurines or statues, ceremonial chalices, solar discs)"
+CARNEIRO4_326,Metalworking,Precious or semiprecious stones used for jewelry,Precious or semi-precious stones used for jewelry
+CARNEIRO4_327,Metalworking,Professional smiths,"Professional smiths, who work metal primarily for exchange"
+CARNEIRO4_328,Watercraft and Navigation,Watercraft,Watercraft (excluding floating logs and simple rafts)
+CARNEIRO4_329,Watercraft and Navigation,Boats built from several planks,Boats built from several planks (excluding strakes)
+CARNEIRO4_330,Watercraft and Navigation,Vessels propelled by oars,Vessels propelled by oars
+CARNEIRO4_331,Watercraft and Navigation,Vessels propelled by sails,Vessels propelled by sails
+CARNEIRO4_332,Watercraft and Navigation,Cabins on board vessels,Cabins on board vessels
+CARNEIRO4_333,Watercraft and Navigation,Navy,Navy: fleet of specially designed warships maintained by the state
+CARNEIRO4_334,Watercraft and Navigation,Professional boatbuilders,Professional boatbuilders (including part-time specialists)
+CARNEIRO4_335,Watercraft and Navigation,"Professional sailors, pilots, or navigators","Professional sailors, pilots, or navigators (including part-time specialists)"
+CARNEIRO4_336,Watercraft and Navigation,Voyages undertaken out of sight of land,Voyages undertaken out of sight of land
+CARNEIRO4_337,Special Knowledge and Practices,Water boiled in a container,"Water boiled in a container over a fire, rather than by hot stones dropped into it"
+CARNEIRO4_338,Special Knowledge and Practices,Standardized weights and measures,"Standardized weights and measures (excluding measurement with parts of the body, and similarly variable measurements)"
+CARNEIRO4_339,Special Knowledge and Practices,System of numbers extending beyond 100,System of numbers extending beyond 100
+CARNEIRO4_340,Special Knowledge and Practices,Mathematics,Mathematics (beyond simple addition and subtraction)
+CARNEIRO4_341,Special Knowledge and Practices,"Mnemonic devices for recording traditions, events, etc.","Traditions, events, etc., recorded by means of mnemonic devices (excluding simple records of elapsed time or simple inventories)"
+CARNEIRO4_342,Special Knowledge and Practices,System of writing,System of writing (including extensive systems of standardized pictographs)
+CARNEIRO4_343,Special Knowledge and Practices,Fully phonetic system of writing,Fully phonetic system of writing
+CARNEIRO4_344,Special Knowledge and Practices,Scribes,Scribes (other than priests)
+CARNEIRO4_345,Special Knowledge and Practices,Teachers,"Teachers: professional, secular instructors"
+CARNEIRO4_346,Special Knowledge and Practices,Techniques of surveying and mensuration,"Techniques of surveying and mensuration (including, e.g., plumb lines, knowledge of right angle, stretched cords, but excluding swinging of circles by means of a cord)"
+CARNEIRO4_347,Special Knowledge and Practices,Regular astronomical observations by specialists,Astronomical observations regularly made by priests or other specialists
+CARNEIRO4_348,Special Knowledge and Practices,Calendrical system,"Calendrical system, uniquely designating each day of the year, based on solar or stellar observations"
+CARNEIRO4_349,Special Knowledge and Practices,Census taken,Census taken
+CARNEIRO4_350,Special Knowledge and Practices,Surgery practiced,"Surgery practiced (excluding, e.g., the setting of broken bones, removal of arrows, bloodletting)"
+CARNEIRO4_351,Special Knowledge and Practices,Papermaking,Papermaking
+CARNEIRO4_352,Special Knowledge and Practices,Fermented beverages from cultivated plants,Fermented beverages brewed from cultivated plants
+CARNEIRO4_353,Special Knowledge and Practices,Organized messenger or courier system,Organized messenger or courier system which links together most of the society’s territory
+CARNEIRO4_354,Special Knowledge and Practices,"Professional bards, musicians, or storytellers","Bards, minstrels, musicians, or storytellers, whose primary activity is to compose, play, or recite songs, poems, or stories"
