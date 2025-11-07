@@ -1,0 +1,128 @@
+ID,Name,Latitude,Longitude,Glottocode,Name_and_ID_in_source,xd_id,alt_names_by_society,main_focal_year,HRAF_name_ID,HRAF_ID,origLat,origLong,comment,glottocode_comment,region
+CARNEIRO4_001,Ancient Egyptians,30,31,egyp1246,New Kingdom Egypt,,,-1350,,,,,,,Northern Africa
+CARNEIRO4_002,Ancient Romans,41.9,12.5,lati1261,Roman Empire,,,100,Imperial Romans (EI09),EI09,,,,,Southeastern Europe
+CARNEIRO4_003,Assyrian Empire,36.36,43.15,assy1242,Assyrian Empire,,,-650,,,,,Coordinates based on the capital city Nineveh,,Western Asia
+CARNEIRO4_004,Aztec,19,-99,clas1250,Aztecs (pre-conquest),,,1500,Aztecs (NU07),NU07,,,,,Mexico
+CARNEIRO4_005,China (Han Dynasty),34.31,108.86,oldc1244,China (Han Dynasty),,,-100,Han Chinese (AE15),AE15,,,Coordinates based on the capital city Chang'an,,China
+CARNEIRO4_006,Inca,-13,-72,cusc1236,Incas,,,1500,Inka (SE13),SE13,,,,,Western South America
+CARNEIRO4_007,Kingdom of León,42.6,-5.57,leon1250,Kingdom of León,,,950,,,,,Coordinates based on the capital city Leon,,Southwestern Europe
+CARNEIRO4_008,Vikings,59,11.1,oldn1244,Vikings,,,,,,,,,,Northern Europe
+CARNEIRO4_009,Fon,7,2,fonn1241,Dahomey,,,,Fon (FA18),FA18,,,,,West Tropical Africa
+CARNEIRO4_010,Ashanti,7,-2,asan1239,Ashanti,,,,Akan (FE12),FE12,,,,,West Tropical Africa
+CARNEIRO4_011,Ganda,1,32,gand1255,Baganda,,,,Ganda (FK07),FK07,,,,,East Tropical Africa
+CARNEIRO4_012,Marquesans,-8.90,-140.08,nort2845,Marquesans,,,,Marquesas (OX06),OX06,,,,,South-Central Pacific
+CARNEIRO4_013,Tahitians,-17.71,-149.54,tahi1242,Tahitians,,,,,,,,,,South-Central Pacific
+CARNEIRO4_014,Hawaiians,19.89,-155.83,hawa1245,Hawaiians,,,,Hawaiians (OV05),OV05,,,,,North-Central Pacific
+CARNEIRO4_015,Mano,7.05,-8.86,mann1248,Mano,,,,,,,,,,West Tropical Africa
+CARNEIRO4_016,Venda,-23,30,vend1245,Bavenda,,,,,,,,,,Southern Africa
+CARNEIRO4_017,Batak,2,98.5,toba1265,Batak,,,,,,,,"Probably more general than Toba Batak (Ib4, xd753) but there should be overlap between them",,Malesia
+CARNEIRO4_018,Mbau Fijians,-17.81,178.32,bauu1243,Fijians,,,,Bau Fijians (OQ12),OQ12,,,,,Southwestern Pacific
+CARNEIRO4_019,Bemba,-11,31,town1238,Bemba,,,,Bemba (FQ05),FQ05,,,,,South Tropical Africa
+CARNEIRO4_020,Suku,-6,18,suku1259,Suku,,,,Suku (FO46),FO46,,,,,West-Central Tropical Africa
+CARNEIRO4_021,Tanala,-22,47,tana1285,Tanala,,,,Tanala (FY08),FY08,,,,,Western Indian Ocean
+CARNEIRO4_022,Māori,-38.41,176.31,maor1246,Maori,,,,Maori (OZ04),OZ04,,,,,New Zealand
+CARNEIRO4_023,Pokot,1.57,35.23,poko1263,Pokot,,,,,,,,Coordinates from glottolog poko1263; not specified whether East = Plains (xd399) or West = Hill (xd402),,East Tropical Africa
+CARNEIRO4_024,Acoma,35,-108,acom1246,Acoma,,,,,,,,,,South-Central U.S.A.
+CARNEIRO4_025,Rwala,33,37,east2690,Rwala,,,,Rwala Bedouin (MD04),MD04,,,,,Western Asia
+CARNEIRO4_026,Muscogee,33,-84,cree1270,Creek,,,,Creek (NN11),NN11,,,,,Southeastern U.S.A.
+CARNEIRO4_027,Tuareg Ahaggar,23,6,hogg1238,Tuareg (Ahaggar),,,,Tuareg (MS25),MS25,,,,,Northern Africa
+CARNEIRO4_028,Kayan,2.72,114.17,reja1241,Kayan,,,,,,,,Coordinates from glottolog reja1241,,Malesia
+CARNEIRO4_029,Futunans,-14.31,-178.11,east2447,Futunans,,,,,,,,,,Southwestern Pacific
+CARNEIRO4_030,Kofyar,8.80,9.15,kofy1242,Kofyar,,,,,,,,Coordinates from glottolog kofy1242,,West Tropical Africa
+CARNEIRO4_031,Tsonga,-24,32,tson1249,Thonga,,,,Tsonga (FT06),FT06,,,,,South Tropical Africa
+CARNEIRO4_032,Seneca,43,-77,sene1264,Iroquois,,,,Iroquois (NM09),NM09,,,"Probably match to Seneca, based on reference (Morgan 1901)",,Northeastern U.S.A.
+CARNEIRO4_033,Bontok,17,121,cent2292,Bontoc,,,,,,,,,,Malesia
+CARNEIRO4_034,Boloki,0.83,18.46,bolo1262,Boloki,,,,,,,,Coordinates from glottolog bolo1262; cross-id matched to Ngala (Ae28),,West-Central Tropical Africa
+CARNEIRO4_035,Kwakwaka'wakw,51,-127.49,kwak1269,Kwakiutl,,,,,,,,,,Western Canada
+CARNEIRO4_036,Molima,-10,151,moli1248,Molima,,,,,,,,,,Papuasia
+CARNEIRO4_037,Keyu,0,36,keiy1238,Elgeyo,,,,,,,,,,East Tropical Africa
+CARNEIRO4_038,Kiga,-3,30,chig1238,Chiga,,,,,,,,,,West-Central Tropical Africa
+CARNEIRO4_039,Karen,17.99,97.71,sgaw1245,Karen (S'gaw),,,,Karen (AP07),AP07,,,Coordinates from glottolog sgaw1245 (S'gaw Karen),,Indo-China
+CARNEIRO4_040,Lango,2,33,lang1324,Lango,,,,,,,,,,East Tropical Africa
+CARNEIRO4_041,Ao,27,94,aona1235,Ao Naga,,,1800,,,,,,,Indian Subcontinent
+CARNEIRO4_042,Mandan,47,-101,mand1446,Mandan,,,,Mandan (NQ17),NQ17,,,,,North-Central U.S.A.
+CARNEIRO4_043,Omaha,41,-96,omah1248,Omaha,,,,Omaha (NQ21),NQ21,,,,,North-Central U.S.A.
+CARNEIRO4_044,Ifaluk,7.25,144.46,nucl1479,Ifaluk,,,,Woleai Region (OR21),OR21,,,,,Northwestern Pacific
+CARNEIRO4_045,Nama,-26,18,nama1265,Nama Hottentots,,,,Khoi (FX13),FX13,,,,,Southern Africa
+CARNEIRO4_046,Menominee,46,-88,meno1252,Menomini,,,,,,,,,,Northeastern U.S.A.
+CARNEIRO4_047,Manobo,8,126,agus1235,Manóbo,,,,,,,,,,Malesia
+CARNEIRO4_048,Tupinambá,-22.81,-42.11,tupi1273,Tupinambá,,,,Tupinamba (SO09),SO09,,,Coordinates from glottolog tupi1273,,Brazil
+CARNEIRO4_049,Siuai,-6,155,siwa1245,Siuai,,,,Siwai (ON19),ON19,,,,,Papuasia
+CARNEIRO4_050,Cheyenne,39,-104,chey1247,Cheyenne,,,1830,,,,,,,Northwestern U.S.A.
+CARNEIRO4_051,Bitterroot Salish,46,-113,kali1309,Flathead,,,,Southeast Salish (NR19),NR19,,,,,Northwestern U.S.A.
+CARNEIRO4_052,Kiwai,-9,143,sout2949,Kiwai,,,,,,,,,,Papuasia
+CARNEIRO4_053,Gururumba,-5.92,145.25,dano1240,Gururumba,,,,,,,,Coordinates from glottolog dano1240,,Papuasia
+CARNEIRO4_054,Toda,12,77,toda1252,Toda,,,,Toda (AW60),AW60,,,,,Indian Subcontinent
+CARNEIRO4_055,Klallam,48,-123,clal1241,Klallam,,,,,,,,,,Northwestern U.S.A.
+CARNEIRO4_056,Mala,-9,161,mala1542,Mala,,,,,,,,"Probably more general than Kwaio (Ig18, xd850) but there should be overlap between them",,Papuasia
+CARNEIRO4_057,Sami,68,22,nort2671,Reindeer Lapps,,,,Saami (EP04),EP04,,,,,Northern Europe
+CARNEIRO4_058,Guaraní,-23.5,-56.5,tupi1282,Guaraní,,,,Guaraní (SM04),SM04,,,"Guaraní in Paraguay, but not clear wheter closer to Paraguayan Guaraní (para1311) or Mbyá Guaraní (mbya1239)",,Southern South America
+CARNEIRO4_059,Yukaghir,70,145,nort2745,Yukaghir,,,,Yukaghir (RV03),RV03,,,,,Siberia
+CARNEIRO4_060,Nuer,8,32,nuer1246,Nuer,,,,Nuer (FJ22),FJ22,,,,,Northeast Tropical Africa
+CARNEIRO4_061,Dena'ina,62,-144,tana1289,Tanaina,,,,,,,,,,Subarctic America
+CARNEIRO4_062,Ticuna,-3,-70,ticu1245,Tukuna,,,,Ticuna (SQ20),SQ20,,,,,Western South America
+CARNEIRO4_063,Comanche,33,-100,coma1245,Comanche,,,,Comanche (NO06),NO06,,,,,South-Central U.S.A.
+CARNEIRO4_064,Tenino,45,-121,teni1238,Tenino,,,,,,,,,,Northwestern U.S.A.
+CARNEIRO4_065,Blackfoot,51,-112,pieg1239,Blackfoot,,,1800,Blackfoot (NF06),NF06,,,,,Western Canada
+CARNEIRO4_066,Havasupai,36,-112,hava1249,Havasupai,,,1870,Havasupai (NT14),NT14,,,,,Southwestern U.S.A.
+CARNEIRO4_067,Canela,-7,-45,cane1242,Canela,,,,Canela (SO08),SO08,,,,,Brazil
+CARNEIRO4_068,Warao,9,-62,wara1303,Warao,,,,Warao (SS18),SS18,,,,,Northern South America
+CARNEIRO4_069,Yupa,9,-72,yukp1241,Yupa,,,,,,,,,,Northern South America
+CARNEIRO4_070,Koryak,63.90,166.69,kory1246,Koryak,,,,Koryaks (RY04),RY04,,,"Reindeer type, not maritime; coordinates from glottolog kory1246",,Russian Far East
+CARNEIRO4_071,Shuar,-3,-78,shua1257,Jívaro,,,,Jivaro (SD09),SD09,,,,,Western South America
+CARNEIRO4_072,Kamar,20.53,81.91,kama1350,Kamar,,,,,,,,Coordinates from glottolog kama1350,,Indian Subcontinent
+CARNEIRO4_073,Kuikuru,-13,-54,kuik1246,Kuikuru,,,,,,,,,,Brazil
+CARNEIRO4_074,Tehuelche,-46,-70,tehu1242,Tehuelche,,,,Tehuelche (SH05),SH05,,,,,Southern South America
+CARNEIRO4_075,Munduruku,-6,-58,mund1330,Mundurucú,,,,Mundurucu (SQ13),SQ13,,,,,Brazil
+CARNEIRO4_076,Gros Ventre,48.78,-108.98,gros1243,Gros Ventres,,,,Gros Ventre (NQ13),NQ13,,,,,Northwestern U.S.A.
+CARNEIRO4_077,Barama River Carib,5,-59,mura1272,Barama River Carib,,,,Barama River Carib (SR09),SR09,,,,,Northern South America
+CARNEIRO4_078,Asháninka,-8,-75,ajyi1238,Campa (Asháninka),,,,,,,,,,Western South America
+CARNEIRO4_079,Pumé,7,-68,pume1238,Yaruro,,,,Pumé (SS19),SS19,,,,,Northern South America
+CARNEIRO4_080,Cubeo,1,-71,cube1242,Cubeo,,,,Tukano (SQ19),SQ19,,,,,Western South America
+CARNEIRO4_081,Northern Maidu,40,-121,nort2952,Northern Maidu,,,,,,,,Cross-id matched to EA - Maidu (Nc12) (xd1110),,Southwestern U.S.A.
+CARNEIRO4_082,Amahuaca,-10,-72,amah1246,Amahuaca,,,,Amahuaca (SE06),SE06,,,,,Brazil
+CARNEIRO4_083,Copper Inuit,69,-110,copp1244,Copper Eskimo,,,,Copper Inuit (ND08),ND08,,,,,Subarctic America
+CARNEIRO4_084,Chippewa,47.35,-94.27,chip1241,Chippewa (Northcentral Minnesota),,,,Ojibwa (NG06),NG06,,,"Coordinates from glottolog chip1241, cross-id to Minnesota Ojibwa (EA Na36)",,North-Central U.S.A.
+CARNEIRO4_085,Andamanese,12,93,akab1249,Andamanese,,,,Andamans (AZ02),AZ02,,,,,Indo-China
+CARNEIRO4_086,Tasiilaq,66,-37,tunu1234,Ammassalik,,,,,,,,,,Subarctic America
+CARNEIRO4_087,Lengua,-23,-59,nort2971,Lengua,,,,Enxet And Enlhet (SK15),SK15,,,,,Southern South America
+CARNEIRO4_088,Sirionó,-16,-64,siri1273,Sirionó,,,,Sirionó (SF21),SF21,,,,,Western South America
+CARNEIRO4_089,Vedda,8,81,vedd1240,Vedda,,,,Vedda (AX05),AX05,,,,,Indian Subcontinent
+CARNEIRO4_090,Kaska,59,-128,kask1239,Kaska,,,,Kaska (ND12),ND12,,,,,Western Canada
+CARNEIRO4_091,Naskapi,58,-70,nask1242,Naskapi,,,,Innu (NH06),NH06,,,,,Eastern Canada
+CARNEIRO4_092,!Kung,-20,21,juho1239,Bushmen (NW groups),,,,San (FX10),FX10,,,,,Southern Africa
+CARNEIRO4_093,Yahgan,-55.02,-68.98,yama1264,Yahgan,,,,Yahgan (SH06),SH06,,,,,Southern South America
+CARNEIRO4_094,Walbiri,-22,132,warl1254,Walbiri,,,,,,,,,,Australia
+CARNEIRO4_095,"Yolngu, Dhuwal",-12.48,135.96,dhuw1249,Murngin,,,,Yolngu (OI17),OI17,,,,,Australia
+CARNEIRO4_096,Washo,39,-120,wash1253,Washo,,,,Washo (NT20),NT20,,,,,Southwestern U.S.A.
+CARNEIRO4_097,Semang,5,101,kens1248,Semang,,,,Semang (AN07),AN07,,,,,Malesia
+CARNEIRO4_098,Kurnai,-37.59,147.42,gana1278,Kurnai,,,,,,,,,,Australia
+CARNEIRO4_099,Mbuti,2,28,bila1255,BaMbuti Pygmies,,,,Mbuti (FO04),FO04,,,,,West-Central Tropical Africa
+CARNEIRO4_100,Tasmanians,-42,146,port1278,Tasmanians,,,,Tasmanians (OI19),OI19,,,"Not specified whether ""Northwestern (xd783)"" or ""Southeastern (xd980)"", but matched to EA - Tasmanians (Id8) (xd783)",,Australia
+CARNEIRO4_101,Sumerians,31.30,45.67,sume1241,Sumerians,,,-2500,,,,,coordinates from glottolog sume1241,,Western Asia
+CARNEIRO4_102,Wolof,13.75,-15.33,nucl1347,Wolof,,,,Wolof (MS30),MS30,,,,,West Tropical Africa
+CARNEIRO4_103,Hazara,35,66,haza1239,Hazaras,,,,Hazara (AU05),AU05,,,,,Western Asia
+CARNEIRO4_104,Tiv,7,9,tivv1240,Tiv,,,,Tiv (FF57),FF57,,,,,West Tropical Africa
+CARNEIRO4_105,Neolithic Jericho,31.87,35.44,,Jericho (Pre-Pottery Neolithic),,,-6500,,,,,,,Western Asia
+CARNEIRO4_106,Nuu chah nulth,49.16,-125.85,nuuc1236,Nootka,,,,Nuu-Chah-Nulth (NE11),NE11,,,,,Western Canada
+CARNEIRO4_107,Navajo,36.5,-110,nava1243,Navajo,,,,Navajo (NT13),NT13,,,,,Southwestern U.S.A.
+CARNEIRO4_108,Kipsigis,-1,36,kips1239,Kipsigis,,,,,,,,,,East Tropical Africa
+CARNEIRO4_109,Mee,-4,136,ekar1243,Kapauku,,,,Kapauku (OJ29),OJ29,,,,,Papuasia
+CARNEIRO4_110,Kakoli,-6,144,umbu1258,Kakoli,,,,,,,,,,Papuasia
+CARNEIRO4_111,Ulithians,10.02,139.79,ulit1238,Ulithi,,,,Ulithi (OR20),OR20,,,,,Northwestern Pacific
+CARNEIRO4_112,Crow,45,-108,crow1244,Crow,,,,Crow (NQ10),NQ10,,,,,Northwestern U.S.A.
+CARNEIRO4_113,Delaware,41,-75,unam1242,Delaware,,,,Delaware (NM07),NM07,,,,,Northeastern U.S.A.
+CARNEIRO4_114,Kurtatchi,-5.60,154.91,tinp1237,Kurtatchi,,,,Tinputz (ON26),ON26,,,,,Papuasia
+CARNEIRO4_115,Penobscot,45,-68,peno1243,Penobscot,,,,,,,,,,Northeastern U.S.A.
+CARNEIRO4_116,Akawaio,6.16,-60.86,akaw1239,Akawaio,,,,,,,,coordinates from glottolog akaw1239,,Northern South America
+CARNEIRO4_117,Wayana,2.78,-54.44,waya1269,Waiyana,,,,,,,,coordinates from glottolog waya1269,,Northern South America
+CARNEIRO4_118,Yabarana,5,-66,yaba1248,Yabarana,,,,,,,,,,Northern South America
+CARNEIRO4_119,Karankawa,29,-96,kara1289,Karankawa,,,,,,,,,,South-Central U.S.A.
+CARNEIRO4_120,Sateré Mawé,-4,-57,sate1243,Maué,,,,,,,,,,Brazil
+CARNEIRO4_121,Shoshone,41,-116,shos1248,Shoshone,,,,,,,,Details not specified; coordinates from glottolog shos1248 (Shoshoni),,Southwestern U.S.A.
+CARNEIRO4_122,Tiwi,-11.56,130.81,tiwi1244,Tiwi,,,,Tiwi (OI20),OI20,,,,,Australia
+CARNEIRO4_123,Ona,-54,-69,onaa1245,Ona,,,,Ona (SH04),SH04,,,,,Southern South America
+CARNEIRO4_124,Yuwaalaraay,-29.30,147.25,gami1243,Euahlayi,,,,,,,,,,Australia
+CARNEIRO4_125,Sekani,56,-123,seka1250,Sekani,,,,,,,,,,Western Canada
+CARNEIRO4_126,Anak Dalam,-3,103,kubu1239,Kubu,,,,,,,,,,Malesia
+CARNEIRO4_127,Alacaluf,-52,-74,qawa1238,Alacaluf,,,,,,,,,,Southern South America
