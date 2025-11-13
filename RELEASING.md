@@ -22,3 +22,12 @@ cldfbench readme cldfbench_carneiro4.py
 cldfbench zenodo --communities dplace cldfbench_carneiro4.py
 dplace check cldfbench_carneiro4.py
 ```
+
+```shell
+git status
+git tag
+```
+
+```shell
+dplace release cldfbench_carneiro4.py vX.Y
+```
